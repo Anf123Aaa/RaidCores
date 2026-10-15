@@ -1,0 +1,6 @@
+name: RaidCores
+version: 1.0.0
+main: me.server.raidcores.RaidCores
+api-version: '1.21'
+author: anf
+description: Кастомные ядра приватов с механикой рейдов
